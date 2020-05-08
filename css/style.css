@@ -1,0 +1,58 @@
+#mc_embed_signup {
+    background: #fff;
+    clear: left;
+    font: 14px Helvetica, Arial, sans-serif;
+    padding-top: 3%;
+    border-radius: 10%;
+}
+.navbar {
+    background-color: #1c2331;
+}
+
+.full-page-intro {
+    margin-top: 50px;
+    background-image: url("https://mdbootstrap.com/img/Photos/Others/images/78.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+    min-height: calc(100vh - 50px);
+}
+
+.white-text {
+    color: white;
+}
+
+.indicates-required {
+    color: red;
+    text-align: right;
+}
+
+.one-line input {
+    width: 80%;
+}
+
+.one-line input[type="submit"] {
+    width: 50%;
+}
+
+.web-text {
+    padding-top: 50px;
+}
+
+.web-text hr {
+    background-color: #fff;
+}
+
+footer {
+    position: fixed;
+    bottom: 3%;
+    color: whitesmoke;
+    width: 80%;
+}
+
+footer .container .copyright {
+    text-align: center;
+}
+
+footer .container .copyright a {
+    font-weight: bold;
+}
