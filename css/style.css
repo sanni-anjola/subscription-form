@@ -27,7 +27,7 @@
 }
 
 .one-line input {
-    width: 80%;
+    width: 70%;
 }
 
 .one-line input[type="submit"] {
@@ -43,7 +43,7 @@
 }
 
 footer {
-    position: fixed;
+    position: absolute;
     bottom: 3%;
     color: whitesmoke;
     width: 80%;
