@@ -43,8 +43,7 @@
 }
 
 footer {
-    position: absolute;
-    bottom: 3%;
+    margin-top: 3%;
     color: whitesmoke;
     width: 80%;
 }
